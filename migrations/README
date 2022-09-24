@@ -1,0 +1,2 @@
+Fork of https://github.com/yandex-praktikum/go-musthave-diploma-tpl written in python
+Stack: FastAPI, SQLAlchemy, asyncpg, alembic
